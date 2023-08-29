@@ -2,4 +2,4 @@ export {
   Footer
 } from './Footer';
 
-console.log('footer');
+console.log('footer32312');
